@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, sou Juan Angel Sarmiento 👋
 
-<!--
-**Jasr4075/Jasr4075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Habilidades
+### Linguagens de programação: 
+- JavaScript
+- TypeScript
 
-Here are some ideas to get you started:
+### Bancos de dados: 
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de Estilo: 
+- CSS
+- Sass
+- SCSS
+
+### Linguagens de marcação: 
+- Html
+
+### Frameworks
+- Frontend
+    - Bootstrap 4 e 5
+    - Vue.js 2 e 3
+    - Nuxt.js 2 e 3
+    - Vuetify.js
+    - Axios.js
+    
+- Backend
+    - Nodejs
+    - Sequelize ORM
+    - Express.js
+
+## 📝 Sobre
+
+
+## 🏢 Experiência Profissional
+
+## 📈 Gráfico de Contribuição
