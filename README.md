@@ -29,9 +29,3 @@
     - Sequelize ORM
     - Express.js
 
-## 📝 Sobre
-
-
-## 🏢 Experiência Profissional
-
-## 📈 Gráfico de Contribuição
