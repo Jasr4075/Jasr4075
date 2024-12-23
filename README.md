@@ -1,31 +1,48 @@
-# Olá, sou Juan Angel Sarmiento 👋
+# 👋 Hola, soy Juan Ángel Sarmiento
 
-## 👨‍💻 Habilidades
-### Linguagens de programação: 
+Soy un desarrollador apasionado por crear soluciones digitales eficientes y escalables. Disfruto trabajar con tecnologías modernas tanto en el frontend como en el backend, y siempre busco aprender algo nuevo para mejorar mis habilidades.
+
+---
+
+## 💻 Habilidades Técnicas
+
+### **Lenguajes de Programación**
 - JavaScript
 - TypeScript
 
-### Bancos de dados: 
+### **Bases de Datos**
 - PostgreSQL
 
-### Linguagens de Estilo: 
+### **Lenguajes de Estilo**
 - CSS
-- Sass
-- SCSS
 
-### Linguagens de marcação: 
-- Html
+### **Lenguajes de Marcado**
+- HTML
 
-### Frameworks
-- Frontend
-    - Bootstrap 4 e 5
-    - Vue.js 2 e 3
-    - Nuxt.js 2 e 3
-    - Vuetify.js
-    - Axios.js
-    
-- Backend
-    - Nodejs
-    - Sequelize ORM
-    - Express.js
+---
 
+## 🚀 Frameworks y Tecnologías
+
+### **Frontend**
+- Bootstrap (v4 y v5)
+- Vue.js (v2 y v3)
+- Nuxt.js (v2 y v3)
+- Vuetify.js
+- Axios.js
+- React
+
+### **Backend**
+- Node.js
+- Sequelize (ORM)
+- Express.js
+
+---
+
+## 🌟 Sobre mí
+- 📚 Siempre estoy aprendiendo nuevas tecnologías para mantenerme actualizado.
+- 🛠️ Disfruto resolver problemas y optimizar procesos en mis proyectos.
+- 🎯 Mi objetivo es contribuir al desarrollo de soluciones innovadoras que generen impacto positivo.
+
+---
+
+¡Conéctate conmigo para colaborar en proyectos emocionantes! 😊
