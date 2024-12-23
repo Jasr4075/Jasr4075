@@ -86,8 +86,6 @@ Soy un **estudiante de Ciencia de la Computación** y **consultor técnico** apa
 ---
 
 ## 📫 Contáctame  
-- 📍 **Dirección**: R. Osvaldo Cruz, 960, São Cristóvão, Chapecó - SC, Brasil  
-- 📱 **Teléfono**: +55 49 99940-3993  
 - ✉️ **Correo**: [jasr4075@gmail.com](mailto:jasr4075@gmail.com)  
 - 🌐 **LinkedIn**: [linkedin.com/in/juanangelpxvll](https://www.linkedin.com/in/juanangelpxvll)  
 
